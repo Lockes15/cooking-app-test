@@ -1,0 +1,21 @@
+/* General body styling */
+body {
+ font-family: 'Roboto', sans-serif;
+}
+
+/* Navigation list styling */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Navigation list item styling */
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+/* General heading styling */
+h1 {
+  color: #333;
+}
